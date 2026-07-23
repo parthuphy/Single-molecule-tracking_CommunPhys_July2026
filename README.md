@@ -101,3 +101,7 @@ If you use these scripts in your research, please cite the associated manuscript
 > **...**
 
 ---
+
+# License
+
+This repository is distributed under the MIT License.
